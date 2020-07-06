@@ -249,3 +249,52 @@
 	<ctype.h>
 	<conio.h>
 
+1592091677 source:c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"UTN.h"
+
+1591996256 c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\linkedlist.h
+
+1592025158 c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\employee.h
+
+1592088051 c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\parser.h
+
+1589313115 c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\utn.h
+
+1592091520 source:c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"UTN.h"
+
+1592091764 source:c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"UTN.h"
+
+1592088051 c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\controller.h
+
+1592091851 source:c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"UTN.h"
+
+1592023467 source:c:\users\ale\desktop\clasagustin_trabajospracticosc\tp3_agustinclas\utn.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+	<conio.h>
+

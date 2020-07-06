@@ -458,7 +458,7 @@ int controller_saveAsText(char* path , LinkedList* this)
                 auto_getAnio(auxAuto, &anio);
                 auto_getPrecio(auxAuto, &precio);
 
-                fprintf(file,"%d,%s,%s%d,%f\n", id, marca, modelo, anio, precio);
+                fprintf(file,"%d,%s,%s,%d,%f\n", id, marca, modelo, anio, precio);
             }
             retorno = 1;
         }
